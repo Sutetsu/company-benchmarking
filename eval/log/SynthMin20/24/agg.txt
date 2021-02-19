@@ -1,0 +1,16 @@
+Size AnalystStorage 6.233e-06
+Size ClientStorage 0.701589086
+Size ServerStorage 0.011539184
+Time NewVals 14.550492299999998
+Time LoadKeys 1.0834229
+Time AddVals 0.8302601000000001
+Time CheckTodos 0.19465160000000004
+Time InternalCalcs 0.004883600000000001
+Time LevelZero 3.6227182000000004
+Time Aggregate 0.0268234
+Time Start 86.2942049
+Time ServerKPI 6.2107319
+Time Network 53.321306699999994
+Time ClientCalcs 5.493689099999999
+Time Obfuscation 7.1242704
+Time Initial 6.6911615
